@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="belhard:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/belhard_jar</output-path>
+    <root id="archive" name="belhard.jar">
+      <element id="module-output" name="belhard" />
+    </root>
+  </artifact>
+</component>
